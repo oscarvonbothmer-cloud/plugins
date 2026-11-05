@@ -1,0 +1,4 @@
+name: CrystalLimit
+version: 1.0
+main: de.crystallimit.CrystalLimit
+api-version: '26.3'
